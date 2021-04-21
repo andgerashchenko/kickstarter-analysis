@@ -14,15 +14,11 @@ Outcomes Based on Goals table was built by splitting goal set of amounts in sepa
 During this proccess some steps were challengeable, such as splitting date into months and years and adding to different caregories of the pivot table. Also performing formulas for Outcomes Based on Goals table requiared extra attentiveness, just one misstake could skew the chart and effect conclutions.          
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-Analizing the chart Outcomes based on Launch Date, we can see that the most successful months are May and June, also it correlates with "failed" line, which confirms the dynamics. Therefore summer months are better time for starting theater campaigns and end of the year is less preferable.    
+- Analizing the chart Outcomes based on Launch Date, we can see that the most successful months are May and June, also it correlates with "failed" line, which confirms the dynamics. Therefore summer months are better time for starting theater campaigns and end of the year is less preferable.    
 
-- What can you conclude about the Outcomes based on Goals?
-Outcomes based on Goals chart shows that "plays" with fewer goals are more successful. So conclusion is try not to overestimate the project, maybe use more data for analysis.   
+- Outcomes based on Goals chart shows that "plays" with fewer goals are more successful. So conclusion is try not to overestimate the project, maybe use more data for analysis.   
 
-- What are some limitations of this dataset?
-Analysing these two sets of data, we can determine when is the better time to start a project and how much outcome should be expected. However this date can be insufficient, because we used absolute values and didn't consider possible outliers and other statistical biases, which could infuance conclutions. 
+- Analysing these two sets of data, we can determine when is the better time to start a project and how much outcome should be expected. However this date can be insufficient, because we used absolute values and didn't consider possible outliers and other statistical biases, which could infuance conclutions. 
 
-- What are some other possible tables and/or graphs that we could create?
-To reveal some other paterns of this data set, we can create a table using count of backers and pledged amount, then get average donation for each project. After that to make line chart with two graphs: avarage donation and count of backers and compare correlation of them. Discrepancy points will indicate outliers, where possibly was a single investor with much larger amount of donation, which can skew correct estimate of particular type of project.
+- To reveal some other paterns of this data set, we can create a table using count of backers and pledged amount, then get average donation for each project. After that to make line chart with two graphs: avarage donation and count of backers and compare correlation of them. Discrepancy points will indicate outliers, where possibly was a single investor with much larger amount of donation, which can skew correct estimate of particular type of project.
 
